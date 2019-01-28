@@ -16,4 +16,5 @@ def prime(n)
       return true 
     else n % 2 == 0 || n % 3 == 0 
       return true
+  end
 end
